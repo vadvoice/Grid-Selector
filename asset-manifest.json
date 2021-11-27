@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Grid-Selector/static/css/main.2a125383.chunk.css",
+    "main.js": "/Grid-Selector/static/js/main.da5e5751.chunk.js",
+    "main.js.map": "/Grid-Selector/static/js/main.da5e5751.chunk.js.map",
+    "runtime-main.js": "/Grid-Selector/static/js/runtime-main.5bea4d69.js",
+    "runtime-main.js.map": "/Grid-Selector/static/js/runtime-main.5bea4d69.js.map",
+    "static/js/2.8790d0e1.chunk.js": "/Grid-Selector/static/js/2.8790d0e1.chunk.js",
+    "static/js/2.8790d0e1.chunk.js.map": "/Grid-Selector/static/js/2.8790d0e1.chunk.js.map",
+    "static/js/3.d691494e.chunk.js": "/Grid-Selector/static/js/3.d691494e.chunk.js",
+    "static/js/3.d691494e.chunk.js.map": "/Grid-Selector/static/js/3.d691494e.chunk.js.map",
+    "index.html": "/Grid-Selector/index.html",
+    "static/css/main.2a125383.chunk.css.map": "/Grid-Selector/static/css/main.2a125383.chunk.css.map",
+    "static/js/2.8790d0e1.chunk.js.LICENSE.txt": "/Grid-Selector/static/js/2.8790d0e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bea4d69.js",
+    "static/js/2.8790d0e1.chunk.js",
+    "static/css/main.2a125383.chunk.css",
+    "static/js/main.da5e5751.chunk.js"
+  ]
+}
