@@ -63,3 +63,20 @@ body {
   background-color: black;
   pointer-events: none;
 }
+
+.Grid-footer {
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+}
+.Grid-footer img {
+  opacity: .5;
+  width: 25px
+}
+
+.Grid-footer img:hover {
+  opacity: 1;
+}

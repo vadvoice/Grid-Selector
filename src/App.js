@@ -182,6 +182,11 @@ export default function App() {
           );
         })}
       </div>
+      <footer className="Grid-footer">
+        <a rel="noreferrer" href="https://github.com/vadvoice" target="_blank">
+          <img alt="github profile" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+        </a>
+      </footer>
     </div>
   );
 }
